@@ -1,0 +1,31 @@
+{
+  "name": "exam_project",
+  "version": "1.0.0",
+  "description": "exam project for system intergration",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadsRF/system_intergration.git"
+  },
+  "keywords": [
+    "project",
+    "exam",
+    "system",
+    "intergration"
+  ],
+  "author": "Mads Rune Frederiksen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MadsRF/system_intergration/issues"
+  },
+  "homepage": "https://github.com/MadsRF/system_intergration#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15"
+  }
+}
